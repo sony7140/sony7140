@@ -1,7 +1,4 @@
-# 👋 Hi, I'm sony7140!
-
-I'm passionate about web development and machine learning.  
-Currently learning to integrate frontend and backend with MLOps tools 🚀
+# 
 
 ---
 
