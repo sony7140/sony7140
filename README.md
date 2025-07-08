@@ -1,29 +1,23 @@
-# 
+## 📌 경력 및 활동
 
-## 🧠 Tech Stack
-
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blue?logo=scikit-learn&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-purple?logo=tensorflow&logoColor=white)
-
+- **MLOps 부트캠프**  
+  기간: 6개월 (2025.01 ~ 2025.07)  
+  주관: 한국경제신문 & 토스뱅크
 
 ---
 
-## 🛠 Tools
+## 🛠 프로젝트 및 대회
 
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+1. **서울시 AI를 통한 코스 추천 서비스**  
+   기간: 6주 (2025.05 ~ 2025.07)  
+   주관: 한경아카데미 & 토스뱅크
 
+2. **개인 특성에 따른 수령 가능 보험금 예측 서비스**  
+   기간: 2주 (2025.04 ~ 2025.05)  
+   주관: 한경아카데미 & 토스뱅크
 
 ---
 
-## 📊 GitHub Stats
+## 📬 Contact
 
-![sony7140's GitHub stats](https://github-readme-stats.vercel.app/api?username=sony7140&show_icons=true&theme=default)
-
+✉️ 이메일: [songjiseung9@gmail.com](mailto:songjiseung9@gmail.com)
