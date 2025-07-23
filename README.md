@@ -20,4 +20,4 @@
 
 ## Contact
 
-✉️ 이메일: [songjiseung9@gmail.com](mailto:songjiseung9@gmail.com)
+✉️ 이메일: [songiseung9@gmail.com](mailto:songjiseung9@gmail.com)
